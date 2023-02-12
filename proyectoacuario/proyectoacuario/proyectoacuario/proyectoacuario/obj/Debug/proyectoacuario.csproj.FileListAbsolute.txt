@@ -1,0 +1,53 @@
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe.config
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csprojResolveAssemblyReference.cache
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Login.resources
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Properties.Resources.resources
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csproj.GenerateResource.Cache
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.pdb
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.exe
+c:\users\50493\documents\visual studio 2015\Projects\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.pdb
+C:\Users\50493\Documents\Visual Studio 2015\Projects\proyectoacuario\proyectoacuario\bin\Debug\Database113.mdb
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe.config
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.exe
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.pdb
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\Database113.mdb
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.pdb
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csprojResolveAssemblyReference.cache
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Login.resources
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Properties.Resources.resources
+C:\Users\50493\Desktop\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csproj.GenerateResource.Cache
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe.config
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.exe
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.pdb
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\Database113.mdb
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.pdb
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csprojResolveAssemblyReference.cache
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Login.resources
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.form_Inicio.resources
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Properties.Resources.resources
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Ventas.resources
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csproj.GenerateResource.Cache
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Historial.resources
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Empleados.resources
+C:\Users\50493\Desktop\Proyectofinal\Proyectofinal\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Producto.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe.config
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.exe
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.pdb
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\Database113.mdb
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.pdb
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csprojResolveAssemblyReference.cache
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Empleados.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Login.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.form_Inicio.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Historial.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Producto.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Properties.Resources.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.Ventas.resources
+C:\Users\50493\Desktop\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\bin\Debug\proyectoacuario.exe.config
+C:\Users\Usuario\Downloads\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.exe
+C:\Users\Usuario\Downloads\proyectoacuario\proyectoacuario\proyectoacuario\proyectoacuario\obj\Debug\proyectoacuario.pdb
